@@ -1,11 +1,9 @@
 ### Hi there 👋 I'm [Russell!](https://russelltankaimin.github.io/russelltankaimin/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-## I'm a 3rd Year Comp Sci and Maths Double Degree Student at NUS
+## I'm a 4th Year Comp Sci and Maths Double Degree Student at NUS
 
 - 👨‍💻 I’m currently working on a variety of problems: SAT Solving, Cryptography, A.I and more Combinatorial Optimisation problems.
-- 📚 Outside of research, I am also learning everything about Frontend and Backend technologies 😅
+- 📚 Outside of research, I am also learning everything about Frontend and Backend technologies 
 - 💪🏼 Future Goals: Contribute to scientific software, academic research
 
 ---
@@ -37,4 +35,4 @@
 
 ---
 
-Last edited on: 17/06/2023
+Last edited on: 09/06/2024

@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Russell!](https://russelltankaimin.github.io/russelltankaimin/)
+### Hi there 👋 I'm [Russell!](https://russelltkm.com)
 
 ## I'm a 4th Year Comp Sci and Maths Double Degree Student at NUS
 

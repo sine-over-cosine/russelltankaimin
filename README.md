@@ -1,10 +1,12 @@
-### Hi there 👋 I'm [Russell!](https://russelltkm.com)
+### Hi there 👋 I'm [Russell!](https://russelltankm.com)
 
 ## I'm a 4th Year Comp Sci and Maths Double Degree Student at NUS
 
 - 👨‍💻 I’m currently working on a variety of problems: SAT Solving, Cryptography, A.I and more Combinatorial Optimisation problems.
 - 📚 Outside of research, I am also learning everything about Frontend and Backend technologies 
 - 💪🏼 Future Goals: Contribute to scientific software, academic research
+- Current Project: I am currently doing my FYP on Computational Game Theory and a side project called AlphaSAT, a SAT Solver using GOFAI and some M.L techniques.
+- Expected Graduation: May 2026, probably pursuing PhD after.  
 
 ---
 
@@ -35,4 +37,4 @@
 
 ---
 
-Last edited on: 09/06/2024
+Last edited on: 03/12/2024
